@@ -8,6 +8,7 @@
 * Hopes to provide insights into how language capabilities emerge in language models.
 
 ***
+
 ## Section 3.1 - Insights
 * The new evaluation method offers a fine-grained assessment of a model's capabilities, showing how different abilities depend on the model's size and architecture.
 * Shallower models perform better in terms of grammar but are less consistent in content, indicating that model depth is crucial for content consistency.
@@ -18,5 +19,12 @@
 * The quality of instruction-following depends more on the number of layers, while the coherence of the plot is more influenced by the hidden dimension size.
 
 ***
+
+## Data
+The dataset has 2.4M stories. When tokenized with "bert-base-uncased", it produces ~450M tokens.
+A model with ~20M parameters could benefit fully from this dataset. Bigger than this would need more than TinyStories dataset and smaller than this would not need that big of a dataset(According to Chinchilla scaling law)
+
+***
+
 ## Dataset
 https://huggingface.co/datasets/roneneldan/TinyStories
