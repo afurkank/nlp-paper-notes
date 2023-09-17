@@ -24,17 +24,13 @@
 
 ## Chinchilla Tokens and FLOPs Scaling
 
-Table A3 from the paper:
-
-![chinchilla2](https://github.com/afurkank/paper-notes/assets/62884181/b1580b74-ccb1-4ab8-ba9b-0fda23c7dc7a)
+![chinchilla](https://github.com/afurkank/paper-notes/assets/62884181/8dffec58-1d6b-4b76-96b3-56281eb4805c)
 
 ***
 
 ## Chinchilla Parameter Scaling
 
-Table A9 from the paper:
-
-![chinchilla](https://github.com/afurkank/paper-notes/assets/62884181/197465ae-78dd-4bb6-9b28-db5d5c1da68d)
+![chinchilla2](https://github.com/afurkank/paper-notes/assets/62884181/30763027-1679-43aa-bd27-e630961c7228)
 
 ***
 
