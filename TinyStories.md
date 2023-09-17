@@ -28,3 +28,7 @@ A model with ~20M parameters could benefit fully from this dataset. Bigger than 
 
 ## Dataset
 https://huggingface.co/datasets/roneneldan/TinyStories
+
+***
+
+Paper link: https://arxiv.org/pdf/2305.07759.pdf
