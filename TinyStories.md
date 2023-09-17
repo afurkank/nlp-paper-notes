@@ -20,6 +20,30 @@
 
 ***
 
+## Evaluation Results
+
+![tinystories](https://github.com/afurkank/paper-notes/assets/62884181/15c6a689-08a9-496c-bb07-c2577fa9ef05)
+
+***
+
+## Completion of Different Models
+
+![tinystories2](https://github.com/afurkank/paper-notes/assets/62884181/bd6cd8e1-db8b-4e93-b21e-c99a55ff8257)
+
+***
+
+## Completion of Different Models - 2
+
+![tinystories3](https://github.com/afurkank/paper-notes/assets/62884181/847febef-019b-4e06-bac0-e5ee8e7bcfa9)
+
+***
+
+## Model Performance w/ Different Layers and Heads
+
+![tinystories4](https://github.com/afurkank/paper-notes/assets/62884181/59097c00-e3e9-475a-ba13-62a7368d29a0)
+
+***
+
 ## Data
 The dataset has 2.4M stories. When tokenized with "bert-base-uncased", it produces ~450M tokens.
 A model with ~20M parameters could benefit fully from this dataset. Bigger than this would need more than TinyStories dataset and smaller than this would not need that big of a dataset(According to Chinchilla scaling law).
