@@ -22,7 +22,7 @@
 
 ## Data
 The dataset has 2.4M stories. When tokenized with "bert-base-uncased", it produces ~450M tokens.
-A model with ~20M parameters could benefit fully from this dataset. Bigger than this would need more than TinyStories dataset and smaller than this would not need that big of a dataset(According to Chinchilla scaling law)
+A model with ~20M parameters could benefit fully from this dataset. Bigger than this would need more than TinyStories dataset and smaller than this would not need that big of a dataset(According to Chinchilla scaling law).
 
 ***
 
