@@ -1,4 +1,8 @@
-# Abstract
+# Training Compute-Optimal Large Language Models
+
+***
+
+## Abstract
 
 - The paper explores the best combination of model size and training data size for transformer language models within a fixed compute budget.
 - The study finds that current large language models are not trained to their full potential due to the trend of scaling up model size without increasing the amount of training data.
