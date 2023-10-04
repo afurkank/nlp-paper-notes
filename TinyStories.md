@@ -26,25 +26,29 @@
 
 ## Evaluation Results
 
-![tinystories](https://github.com/afurkank/paper-notes/assets/62884181/15c6a689-08a9-496c-bb07-c2577fa9ef05)
+![tiny1](https://github.com/afurkank/nlp-paper-notes/assets/62884181/4db8c99b-859a-4b05-a40c-53edcc9f60a4)
+
 
 ***
 
 ## Completion of Different Models
 
-![tinystories2](https://github.com/afurkank/paper-notes/assets/62884181/bd6cd8e1-db8b-4e93-b21e-c99a55ff8257)
+![tiny2](https://github.com/afurkank/nlp-paper-notes/assets/62884181/d89f6f24-bf32-48e4-8df6-b587c2990c62)
+
 
 ***
 
 ## Completion of Different Models - 2
 
-![tinystories3](https://github.com/afurkank/paper-notes/assets/62884181/847febef-019b-4e06-bac0-e5ee8e7bcfa9)
+![tiny3](https://github.com/afurkank/nlp-paper-notes/assets/62884181/b14c72c7-a823-4f17-a192-36cb912b39d1)
+
 
 ***
 
 ## Model Performance w/ Different Layers and Heads
 
-![tinystories4](https://github.com/afurkank/paper-notes/assets/62884181/59097c00-e3e9-475a-ba13-62a7368d29a0)
+![tiny4](https://github.com/afurkank/nlp-paper-notes/assets/62884181/0bde76aa-39dd-414e-8b61-ea6deb3ac043)
+
 
 ***
 
