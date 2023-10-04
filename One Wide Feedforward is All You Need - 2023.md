@@ -15,23 +15,27 @@
 
 ### Nomenclature
 
-![nomenclature](https://github.com/afurkank/paper-notes/assets/62884181/bfc2a3cd-7fee-4ca4-bd20-1f3d01ae7957)
+![4](https://github.com/afurkank/nlp-paper-notes/assets/62884181/b616ca39-7949-42f9-a50d-cf4bb20d7073)
+
 
 ### Sharing FFNs
 
-![sharing ffns](https://github.com/afurkank/paper-notes/assets/62884181/b316425d-814f-4f2e-b548-ac4eaab884b1)
+![sharing ffns](https://github.com/afurkank/nlp-paper-notes/assets/62884181/789f8122-04da-4139-ac75-2abd2c2acd49)
+
 
 ### Dropping FFNs
 
-![1](https://github.com/afurkank/paper-notes/assets/62884181/e2d6f621-c040-4e4d-aaeb-eaa97d957427)
+![1](https://github.com/afurkank/nlp-paper-notes/assets/62884181/ee8be3e2-2e97-47a3-b721-5722e2eb4c6d)
+
 
 ### One Wide FFN Model
 
-![2](https://github.com/afurkank/paper-notes/assets/62884181/b7f3c206-48e1-43ec-86d7-6af2cf109abd)
+![2](https://github.com/afurkank/nlp-paper-notes/assets/62884181/4316f35d-855a-45c8-916c-b507de4eeb45)
+
 
 ### Results for Different Architectures and Languages
 
-![3](https://github.com/afurkank/paper-notes/assets/62884181/9f979a8e-f5ad-48f3-aa5d-3bdcd9b97eb9)
+![3](https://github.com/afurkank/nlp-paper-notes/assets/62884181/831fdb8c-4006-4fa8-b0b6-83d24d3d9f2c)
 
 ***
 
