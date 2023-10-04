@@ -63,4 +63,4 @@ https://huggingface.co/datasets/roneneldan/TinyStories
 
 ***
 
-Paper link: https://arxiv.org/pdf/2305.07759.pdf
+Paper link: https://arxiv.org/abs/2305.07759
