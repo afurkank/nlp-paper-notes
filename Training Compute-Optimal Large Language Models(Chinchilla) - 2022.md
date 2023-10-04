@@ -40,4 +40,4 @@
 
 ***
 
-Paper link: https://arxiv.org/pdf/2203.15556.pdf
+Paper link: https://arxiv.org/abs/2305.07759
