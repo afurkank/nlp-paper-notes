@@ -28,3 +28,5 @@
 ***
 
 Paper link: https://arxiv.org/abs/2310.06824
+
+A blog post explaining the paper: https://notes.aimodels.fyi/researchers-discover-emergent-linear-strucutres-llm-truth/
